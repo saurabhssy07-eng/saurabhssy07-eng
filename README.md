@@ -103,10 +103,7 @@
 
 <p align="center">
   <a href="https://github.com/saurabhssy07-eng">
-    <img src="https://github-readme-stats.vercel.app/api?username=saurabhssy07-eng&show_icons=true&theme=dracula" alt="GitHub Stats" width="45%" />
-  </a>
-  <a href="https://github.com/saurabhssy07-eng">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhssy07-eng&layout=compact&theme=dracula" alt="Top Languages" width="45%" />
+    <img src="https://metrics.lecoq.io/saurabhssy07-eng?base.theme=dracula" alt="GitHub Metrics" width="91%" />
   </a>
 </p>
 
