@@ -49,6 +49,17 @@
 
 ### 🔥 Featured Projects
 
+#### 🏟️ Stadium-IQ
+**AI-powered Digital Stadium Twin & Multi-Agent Command Center**  
+`React` `TypeScript` `Gemini AI` `Multi-Agent System` `Zustand`  
+**⭐ Features**  
+- Live Digital Twin handling hundreds of concurrent data points
+- Multi-Agent Orchestrator for real-time incident resolution
+- Fan Reporting App with intelligent fallback handling
+- Highly optimized, accessible, and responsive dashboard
+
+🔗 [Live Demo](https://stadium-iq-neon.vercel.app/) | [GitHub Repository](https://github.com/saurabhssy07-eng/Stadium-IQ)
+
 #### 🛒 NextCart AI
 **Production-grade AI-powered MERN eCommerce platform**  
 `React` `Node` `Express` `MongoDB` `Gemini AI` `Razorpay`  
