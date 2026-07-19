@@ -114,16 +114,16 @@
 
 <p align="center">
   <a href="https://github.com/saurabhssy07-eng">
-    <img src="https://metrics.lecoq.io/saurabhssy07-eng?base.theme=dracula" alt="GitHub Metrics" width="91%" />
+    <img src="https://metrics.lecoq.io/saurabhssy07-eng?base.theme=dracula&v=1" alt="GitHub Metrics" width="91%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saurabhssy07-eng&theme=dracula&hide_border=true" alt="GitHub Streak" width="91%" />
+  <img src="https://streak-stats.demolab.com?user=saurabhssy07-eng&theme=dracula&hide_border=true&v=1" alt="GitHub Streak" width="91%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhssy07-eng&theme=dracula&hide_border=true" alt="Activity Graph" width="91%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhssy07-eng&theme=dracula&hide_border=true&v=1" alt="Activity Graph" width="91%" />
 </p>
 
 ---
