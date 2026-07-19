@@ -80,7 +80,7 @@
 - Seamless ATS-friendly exports  
 - Secure Google Authentication  
 
-🔗 [GitHub Repository](https://github.com/saurabhssy07-eng/AuraResume)
+🔗 [Live Demo](https://auraresume-p31i.onrender.com) | [GitHub Repository](https://github.com/saurabhssy07-eng/AuraResume)
 
 #### 🌍 CarbonWise AI
 **AI-powered carbon footprint tracker**  
@@ -89,7 +89,7 @@
 - Actionable AI-generated insights  
 - User emissions tracking  
 
-🔗 [GitHub Repository](https://github.com/saurabhssy07-eng/CarbonWiseAI)
+🔗 [Live Demo](https://carbon-wise-ai-liard.vercel.app) | [GitHub Repository](https://github.com/saurabhssy07-eng/CarbonWiseAI)
 
 #### 📰 News Detection App
 **Fake News Detection & AI Summarization**  
@@ -98,7 +98,7 @@
 - AI summarization  
 - Authenticity scoring via NLP models  
 
-🔗 [GitHub Repository](https://github.com/saurabhssy07-eng/News-Detection-App)
+🔗 [Live Demo](https://news-detection-app-gsan.onrender.com) | [GitHub Repository](https://github.com/saurabhssy07-eng/News_Detection_App)
 
 ---
 
